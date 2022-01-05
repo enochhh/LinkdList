@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input {
+    width:100%;
+    padding: 10px;
+    box-sizing:border-box;
+    border:2px solid rgb(18, 109, 189);
+    height: 30px;
+    font-size: large;
+    margin-bottom: 4px;
+    border-radius: 5px;
+}
+
+button {
+    background:rgb(18, 109, 189);
+    color:rgb(245, 245, 245);
+    border:none;
+    padding: 10px 15px;
+    border-radius: 15px;
+    font-weight: bold;
+}
