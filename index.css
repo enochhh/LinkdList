@@ -19,10 +19,15 @@ input {
 button {
     background:rgb(18, 109, 189);
     color:rgb(245, 245, 245);
-    border:none;
+    border:1px solid rgb(18, 109, 189);
     padding: 10px 15px;
     border-radius: 15px;
     font-weight: bold;
+}
+
+#delete-btn {
+    background: white;
+    color: rgb(18, 109, 189);
 }
 
 ul {

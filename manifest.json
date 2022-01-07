@@ -1,9 +1,12 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 3,
     "version": "1.0",
     "name": "LinkdList",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "image.jpg"
-    }
+        "default_icon": "image.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
 }
